@@ -5,8 +5,8 @@
 %global crate serde_urlencoded
 
 Name:           rust-%{crate}
-Version:        0.6.1
-Release:        2%{?dist}
+Version:        0.7.1
+Release:        1%{?dist}
 Summary:        `x-www-form-urlencoded` meets Serde
 
 # Upstream license specification: MIT/Apache-2.0
